@@ -76,7 +76,7 @@ To checkout and run open source demo version locally, you need to have
 
 .. code:: bash
 
-    git clone https://github.com/viewflow/viewflow.git
+    git clone https://github.com/Xtuden-com/super-duper-octo-invention.git
     cd viewflow
 
     TOXENV=py36-dj111 tox -- python manage.py migrate --settings=demo.settings
